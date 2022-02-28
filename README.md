@@ -1,10 +1,11 @@
-# wether_app
+# learning_repository
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This repository is learning repository have small apps such as weather app, chat app, shop app
+.
 
 A few resources to get you started if this is your first Flutter project:
 
